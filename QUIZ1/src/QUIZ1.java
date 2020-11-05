@@ -13,8 +13,8 @@ public class QUIZ1 {
 		int male=50+(6*(inch-60));
 		int female=40+(5*(inch-60));
 		
-		System.out.println("The the ideal weight for a male : "+male+"kg");
-		System.out.println("The the ideal weight for a female : "+female+"kg");
+		System.out.println("The ideal weight for a male : "+male+"kg");
+		System.out.println("The ideal weight for a female : "+female+"kg");
 		
 		
 		
